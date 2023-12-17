@@ -13,3 +13,8 @@ En la actualidad, existen muchas opciones en el mercado, tanto de pago como de c
 Costa Rica cuenta con un total de 84 cantones (2023). Visualizar la información económica de cada uno es relevante para determinar políticas de desarrollo y gestionar la distribución de recursos.
 
 En este repositorio se pone a disposición lo necesario para la generación de una app en [Azure](https://azure.microsoft.com/es-es/free/search/) que muestra algunos indicadores económicos y geográficos de los cantones de Costa Rica.
+
+### Fuentes información cantonal:
+- [https://app.powerbi.com/view?r=eyJrIjoiZDNlZmE0OWMtMTBjOS00MWYyLWFjMjgtYTFjZjBkYWI5MmEyIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9](https://app.powerbi.com/view?r=eyJrIjoiZDNlZmE0OWMtMTBjOS00MWYyLWFjMjgtYTFjZjBkYWI5MmEyIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9)
+- [https://inec.cr/mapas-cartografia/densidad-poblacion-canton?variable=705&year=2021](https://inec.cr/mapas-cartografia/densidad-poblacion-canton?variable=705&year=2021)
+- [https://app.powerbi.com/view?r=eyJrIjoiMDU2ZDNiMjgtNGQ1YS00NjBhLWJlODktY2E4NTkyMjAyZTg0IiwidCI6IjYxOGQwYTQ1LTI1YTYtNDYxOC05ZjgwLThmNzBhNDM1ZWU1MiJ9](https://app.powerbi.com/view?r=eyJrIjoiMDU2ZDNiMjgtNGQ1YS00NjBhLWJlODktY2E4NTkyMjAyZTg0IiwidCI6IjYxOGQwYTQ1LTI1YTYtNDYxOC05ZjgwLThmNzBhNDM1ZWU1MiJ9)

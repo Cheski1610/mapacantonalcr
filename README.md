@@ -1,6 +1,8 @@
-# MapaCantonal
+# Mapa Cantonal
 
-![Mapa Cantonal Costa Rica](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mapa_de_Costa_Rica_%28cantones_y_distritos%29.svg/666px-Mapa_de_Costa_Rica_%28cantones_y_distritos%29.svg.png)
+<div align="center">
+  <img src="./assets/images/Portada.png" alt="Portafolio de proyectos de ciencia de datos e inteligencia artificial" width="100%">
+</div>
 
 La segmentación de la información geográficamente puede beneficiar a las organizaciones para:
  - Obtener un mayor entendimiento del mercado. 
